@@ -1,0 +1,7 @@
+{
+  "name": "webscrapping",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
